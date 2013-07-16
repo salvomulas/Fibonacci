@@ -55,7 +55,7 @@ public class Terminal {
 			r = console.readLine();
 		} catch (IOException e) {
 		}
-		if ("jJtT1".indexOf(r) >= 0) {
+		if ("jJyYtT1".indexOf(r) >= 0) {
 			return true;
 		} else {
 			return false;
